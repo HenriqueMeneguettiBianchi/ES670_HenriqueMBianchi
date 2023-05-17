@@ -1,2 +1,2 @@
-# Turma: ES670    Grupo: 5
-## Alunos: Henrique M Bianchi e Lucas M Cardozo
+# Turma: ES670    Grupo: 10
+## Alunos: Henrique M Bianchi 
