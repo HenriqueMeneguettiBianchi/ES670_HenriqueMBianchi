@@ -1,2 +1,3 @@
-# Turma: ES670    Grupo: 5
-## Alunos: Henrique M Bianchi e Lucas M Cardozo
+#Projeto de Sistemas Embarcados
+## Turma: A    Grupo: 10
+ Alunos: Henrique M Bianchi 
